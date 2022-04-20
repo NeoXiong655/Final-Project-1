@@ -1,6 +1,8 @@
 Team Name: NB
+
 Team Members: Neo Xiong (nx1@pitt.edu)
-		Brandon Chai (brc137@pitt.edu)
+		
+Brandon Chai (brc137@pitt.edu)
 
 Datasets:
 - https://data.wprdc.org/datastore/dump/4ab1e23f-3262-4bd3-adbf-f72f0119108b
@@ -13,11 +15,10 @@ Datasets:
 (The air quality in different cities)
 
 - https://data.wprdc.org/dataset/d1eb0fcd-ba60-4407-9969-ceef464d0c00/resource/1ca23fa8-53ca-43be-a7f7-82d4c7ff10f5/download/schedule_monthly_agg.csv
-
 (Buses' routes and Daily Trip Count)
 
 - https://www.alleghenycounty.us/Health-Department/Programs/Air-Quality/Air-Quality.aspx
-(Air quality(Health Department)
+(Air quality : Health Department)
 
 - https://www.portauthority.org/system-map/
 (Port Authority Route map)
