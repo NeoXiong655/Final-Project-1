@@ -16,4 +16,10 @@ Datasets:
 
 (Buses' routes and Daily Trip Count)
 
+- https://www.alleghenycounty.us/Health-Department/Programs/Air-Quality/Air-Quality.aspx
+(Air quality(Health Department)
+
+- https://www.portauthority.org/system-map/
+(Port Authority Route map)
+
 In this Final Project of Big Ideas in Computing and Information, we are using datasets and pandas to prove which neighborhood is the best neighborhood to live in.
